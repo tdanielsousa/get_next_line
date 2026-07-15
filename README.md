@@ -16,6 +16,15 @@ These functions all obey `norminette` an automated tool (linter) that checks C c
 * **Buffer Management:** Reading chunks of data of varying sizes (defined by `BUFFER_SIZE`) and stitching them together until a newline (`\n`) is reached.
 * **Memory Management:** Avoiding memory leaks when dealing with continuous heap allocation and freeing unused buffers.
 
+<div align="center">
+    <br>
+    <a href="https://github.com/tdanielsousa/42_School/blob/main/Subjects/gnl_subject.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Subject-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Subject PDF" height="40">
+    </a>
+    <p><i>Click on the button above to see the subject's pdf.</i></p>
+    <br>
+</div>
+
 ---
 
 ##  Function Prototype
